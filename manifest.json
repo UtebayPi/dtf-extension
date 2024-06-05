@@ -1,0 +1,19 @@
+{
+  "name": "DTF Extension",
+  "description": "Base Level Extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "dtf.html",
+    "default_icon": "dtf-extension.png"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://dtf.ru/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
