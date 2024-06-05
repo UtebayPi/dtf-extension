@@ -2,6 +2,8 @@ Chrome extension for dtf.ru that replaces emoji's with a simply upvote/like butt
 
 Расширение для Chrome для dtf.ru которое заменяет эмоджи на простую кнопку лайка. 
 
+Article on DTF with more information about it: 
+
 **How to install/Как установить:**
 
 Инструкция из документаций Chrome на русском языке. https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world?hl=ru#load-unpacked
