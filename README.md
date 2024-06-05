@@ -33,6 +33,6 @@ Article on DTF with more information about it:
 
 ![Image from documentation](https://developer.chrome.com/static/docs/extensions/get-started/tutorial/hello-world/image/extensions-page-e0d64d89a6acf_856.png?hl=ru)
 
-**5.** Done.
+Done.
 
 Готово.
