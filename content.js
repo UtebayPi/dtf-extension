@@ -57,6 +57,7 @@ style.innerHTML = `
 		color: var(--theme-color-text-secondary);
 		margin-left: 1px;
 		font-size: 20px;
+		font-weight: bold;
 		transition-duration: 0s;
 	}
 
